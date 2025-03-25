@@ -8,6 +8,6 @@ This is a frontend for an e-commerce website. It includes a modern UI with produ
 ✅ Dynamic product cards
 
 📂 Tech Stack
-HTML – Structure
-CSS  – Styling
-JavaScript – Functionality
+✅ HTML – Structure
+✅ CSS  – Styling
+✅ JavaScript – Functionality
