@@ -9,5 +9,5 @@ This is a frontend for an e-commerce website. It includes a modern UI with produ
 
 📂 Tech Stack
 HTML – Structure
-CSS (Tailwind/Bootstrap/SCSS) – Styling
+CSS  – Styling
 JavaScript – Functionality
